@@ -1,4 +1,4 @@
-# Docker container to run phpunit on the fly
+# Docker container to run phpunit development
 
 This docker container allows you run phpunit tests on the fly.
 
